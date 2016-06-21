@@ -1,6 +1,6 @@
 **Summary**
 
-This [PRFC](https://github.com/exmosis/prfc-0-prfcs/blob/master/prfc-0.md) sets out a simple spec for digital(+ potentially physical) content that does not encourage casual browsing by having a home page, or any kind of archive. *Delivery-only content* focuses on subscription-based models, primarily (but not exclusively) through email, RSS, and physical post.
+This [PRFC](https://github.com/exmosis/prfc-0-prfcs/blob/master/prfc-0.md) sets out a simple spec for digital (+ potentially physical) content that does not encourage casual browsing by having a home page, or any kind of archive. *Delivery-only content* focuses on subscription-based models, primarily (but not exclusively) through email, RSS, and physical post.
 
 **Meta**
 
